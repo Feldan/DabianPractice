@@ -1,5 +1,5 @@
 # Linux 课程设计
-
+[**实验步骤和技术要点**](https://github.com/Feldan/GDUST-DabianPractice/blob/main/Linux课程设计/实验报告.md)
 >系别: 计算机学院  
 >专业: 软件工程  
 >课程: Linux 课程设计  
